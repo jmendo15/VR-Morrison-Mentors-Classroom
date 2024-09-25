@@ -306,3 +306,35 @@ Start importing Assets/3D Models/Posters/FBX/Material.012.mat using Guid(24538f7
  -> (artifact id: '8eb795dab1c17898c75b69863e6eaf1f') in 0.014049 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1316.039251 seconds.
+  path: Assets/Wifi_Poster.fbx
+  artifactKey: Guid(c431edba13211414ba472988c0eb8ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wifi_Poster.fbx using Guid(c431edba13211414ba472988c0eb8ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'a05c46d30865dc9c3f2687f19bc8e27b') in 0.056282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 517.771487 seconds.
+  path: Assets/3D Models/Posters/FBX/Materials/Material.007.mat
+  artifactKey: Guid(c0a6c02adaedc40959fb19de8b2d29ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Posters/FBX/Materials/Material.007.mat using Guid(c0a6c02adaedc40959fb19de8b2d29ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: '3827ee48386c4684679c53ddcaf00093') in 0.025604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/3D Models/Posters/FBX/Materials/Material.012.mat
+  artifactKey: Guid(24538f7836ff94de1818f9b6b2dad0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Posters/FBX/Materials/Material.012.mat using Guid(24538f7836ff94de1818f9b6b2dad0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 11 workers.
+ -> (artifact id: 'dcba649fc1c35933fdbb7fa836b217c1') in 0.007136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
